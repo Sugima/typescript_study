@@ -1,0 +1,2 @@
+# typescript_study
+社内のTypeScript学習用のリポジトリ
